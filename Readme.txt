@@ -25,3 +25,6 @@ Application Issues:
  Test :
  		(Used jacoco Tool)
  		in order to see test coverage. It s more than %60 .
+
+Api UserName = adventure
+Api Password = adventure
