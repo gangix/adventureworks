@@ -24,12 +24,4 @@ Application Issues:
  
  Test :
  		(Used jacoco Tool)
- 		in order to see test coverage. It s more than %60 . 
-
-
-  1) Make sure to run unit tests,check code coverage, ensure application is compiling and all dependencies are included.
-  2) Commit everything using (git add --all && git commit -m "My submission")
-  3) Create patch file with name without spaces 'cross-solar-java_<YourNameHere>.patch', using the specified tag as the starting point (git format-patch initial-commit --stdout > cross-solar-java_<yournamehere>.patch)
-  4) Store your file in a shared location where Crossover team can access and download it for evaluation. and add your sharable link in the answer field of this question.
-
-
+ 		in order to see test coverage. It s more than %60 .
