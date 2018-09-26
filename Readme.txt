@@ -1,6 +1,6 @@
 DB Issues:
 	I excecuted all script(AWBackup.sql) in my db and it didnt get any error.
-	I used RDS server which runs on AWS.
+	I used RDS server(MySql) which runs on AWS.
 	I convert productEntity primary key as BIGINT because i used long in application. 
 	I created one more column productreview table, in order to hold InAppropriate info
 	I created 2 tables for Spring Security (Basic Authentication)
