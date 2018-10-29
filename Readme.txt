@@ -1,7 +1,5 @@
 DB Issues:
 	I used RDS server(MySql) which runs on AWS.
-	I convert ProductReview table primary key as BIGINT because i used long in application. 
-	I created one more column in ProductReview table, in order to hold InAppropriate info
 	I created 2 tables for Spring Security (Basic Authentication)
 	Schema and Data sql files are added under resources package of project. 
 
